@@ -1,0 +1,7 @@
+langchain
+streamlit
+INSTRUCTEMBEDDING
+Unstructured
+python-magic
+python-magic-bin
+libmagic
